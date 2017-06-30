@@ -1,0 +1,11 @@
+{
+  "name": "my-seed-angular-2-project",
+  "version": "1.0.0",
+  "description": "seed-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "helton.andreazza",
+  "license": "ISC"
+}
