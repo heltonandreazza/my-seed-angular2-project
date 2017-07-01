@@ -1,6 +1,6 @@
 {
     "name": "my-seed-angular-2-project",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "seed-project",
     "main": "index.js",
     "scripts": {
