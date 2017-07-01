@@ -10,7 +10,7 @@ module.exports = webpackMerge(commonConfig, {
         path: path.resolve(__dirname, 'dist'),
         publicPath: '/',
         filename: 'bundle.js',
-        chunckFileName: '[id].chunck.js' //chunks for lazy loading
+        chunkFilename: '[id].chunck.js' //chunks for lazy loading
     },
     module: {
         rules: [{
