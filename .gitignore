@@ -11,3 +11,6 @@ src/app/**/*.js.map
 src/app/**/*.shim.ts
 src/app/**/*.shim.ngstyle.ts
 src/app/**/*.ngsummary.json
+
+//dist files
+dist/
