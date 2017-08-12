@@ -14,6 +14,9 @@
             "dom"
         ]
     },
+    "awesomeTypeScriptLoaderOptions": {
+        "useWebpackText": true
+    },    
     "angularCompileOptions": {
         "skipMetadataEmit": true
     }

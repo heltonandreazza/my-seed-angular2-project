@@ -27,6 +27,7 @@ module.exports = webpackMerge(commonConfig, {
             }]
         }]
     },
+    devtool: 'inline-source-map',
     devServer: {
         historyApiFallback: true,
         stats: 'minimal'
